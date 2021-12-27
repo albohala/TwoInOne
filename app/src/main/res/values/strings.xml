@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TwoInOne</string>
+    <string name="preference_file_key">com.example.twoinone.PREFERENCE_FILE_KEY</string>
+</resources>
